@@ -3,13 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MotionDisplays-Documentation's documentation!
+MotionDisplays-Documentation's!
 ========================================================
+
+This is description of this website.
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+  :caption: Contents:
 
+
+summary
+
+ 
+	
+	
 
 
 Indices and tables
